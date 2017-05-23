@@ -1,0 +1,6 @@
+framework module Pods_sampleSplash {
+  umbrella header "Pods-sampleSplash-umbrella.h"
+
+  export *
+  module * { export * }
+}
